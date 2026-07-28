@@ -1,0 +1,21 @@
+body {
+    background-color: #232F3E; /* AWS Navy Blue */
+    color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    background-color: #1A222D;
+    padding: 50px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.5);
+    text-align: center;
+    border-top: 5px solid #FF9900; /* AWS Orange */
+}
+h1 {
+    color: #FF9900;
+}
